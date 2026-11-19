@@ -26,6 +26,6 @@ An interactive Power BI dashboard built on mobile phone sales data to track sale
 Power BI Desktop, DAX, Power Query, Microsoft Excel
 
 ## 📂 Files
-- `Sales_Data_Dashboard_Project.pbix` – Power BI file
+- `Sales Data Dashboard Project.pbix` – Power BI file
 - `Mobile_Sales_Data.xlsx` – dataset
 - `dashboard-preview.png` – screenshot
