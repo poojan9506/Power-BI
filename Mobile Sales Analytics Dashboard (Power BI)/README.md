@@ -1,5 +1,7 @@
 # 📱 Mobile Sales Analytics Dashboard (Power BI)
 
+![Dashboard Preview](dashboard-preview.png)
+
 An interactive Power BI dashboard built on mobile phone sales data to track sales performance across brands, cities, payment methods and time.
 
 ## 📊 Dashboard Features
